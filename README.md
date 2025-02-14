@@ -3,9 +3,15 @@
 ## Screenshots
 
 
-| Onboarding screen |  |
+| Onboarding screen | Mobile number input screen |
 | ----------------- | -------------------- |
-|  | |
+| ![onboarding-screen](https://github.com/user-attachments/assets/427b4451-e3e1-4a48-a2e7-a5c62cd2defc) | ![mobile-screen](https://github.com/user-attachments/assets/8265b3df-c36f-4e96-a796-a839188cb5a4) |
+|  |  |
+| Bottom modal sheet (mobile no. input screen) | Selected country (mobile no. input screen) |
+| ![mobile-screen-modal-sheet](https://github.com/user-attachments/assets/b014f4e8-5b9d-4ce5-aa39-5d74f53c3050) | ![select-country](https://github.com/user-attachments/assets/f74509d2-3db5-485d-961e-a9ba161e993d) |
+|  |  |
+| OTP screen | OTP screen with otp code |
+| ![otp-screen](https://github.com/user-attachments/assets/b53d0795-5ff7-43f0-add5-cf8e640532d5) | ![otp-screen-with-otp](https://github.com/user-attachments/assets/e9e85ed0-153a-41ad-bcec-0d9839fd65e3) |
 
 ## Overview
 This app uses Firebase to handle mobile authentication. The app runs on Android and iOS.
